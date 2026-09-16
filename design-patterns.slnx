@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AdapterExample/AdapterExample.csproj" />
+  <Project Path="BuilderExample/BuilderExample.csproj" />
+  <Project Path="DecoratorExample/DecoratorExample.csproj" />
+  <Project Path="FacadeExample/FacadeExample.csproj" />
+  <Project Path="FactoryMethodExample/FactoryMethodExample.csproj" />
+  <Project Path="ObserverExample/ObserverExample.csproj" />
+  <Project Path="SingletonExample/SingletonExample.csproj" />
+  <Project Path="StrategyExample/StrategyExample.csproj" />
+</Solution>
